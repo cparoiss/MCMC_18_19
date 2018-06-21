@@ -1,3 +1,5 @@
+# CECI EST UN TEST
+
 rm(list = ls())
 library(survival)
 
